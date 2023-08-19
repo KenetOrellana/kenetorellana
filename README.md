@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 📌 Diseñador Gráfico.  
 📌 Desarrollador web.  
-📌 CEO Fundador de Diario GOLAZO de Honduras.  
+📌 CEO Fundador de [Diario GOLAZO](https://diariodeportivogolazohonduras.blogspot.com/) de Honduras.  

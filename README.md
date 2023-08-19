@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-> 📌 Diseñador Gráfico. 
-> 📌 Desarrollador web. 
-> 📌 CEO Fundador de Diario GOLAZO de Honduras. 
+📌 Diseñador Gráfico.  
+📌 Desarrollador web.  
+📌 CEO Fundador de Diario GOLAZO de Honduras.  

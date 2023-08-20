@@ -23,7 +23,7 @@ Apasionado por el desarrollo web, el diseño gráfico y el fútbol desde que ten
 ## 🖥 Complementariamente 
 - JSON-LD (JSON for Linking Data).
 - CSS.
- Bootstrap.
+- Bootstrap.
 
 ## 🗃️ SGBD  
 - MySQL.

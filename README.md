@@ -1,6 +1,6 @@
 # ¡HOLA! 👋, de 🇭🇳 para el 🌎  
 
-Apasionado por el desarrollo web, el diseño gráfico y el fútbol desde que tengo uso de razón, esto me llevó a la creación de un proyecto personal al cual nombre como [**Diario Deportivo GOLAZO**](https://diariodeportivogolazohonduras.blogspot.com/) de Honduras en donde he ido aplicado todos los conocimentos que involucran a las Ciencias de la Computación a nivel de programación frontend y backend, así como la implementación de tecnologías de ánalitica web como ser **Google Analytics** y **Microsoft Clarity**.  
+Apasionado por el desarrollo web, el diseño gráfico y el fútbol desde que tengo uso de razón, esto me llevó a la creación de un proyecto personal al cual nombre como [**Diario Deportivo GOLAZO**](https://diariodeportivogolazohonduras.blogspot.com/) de Honduras en donde he ido aplicado todos los conocimientos que involucran a las Ciencias de la Computación a nivel de programación frontend y backend, así como la implementación de tecnologías de analítica web como ser **Google Analytics** y **Microsoft Clarity**.  
 
 ## En resumen  
 

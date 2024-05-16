@@ -12,6 +12,7 @@ Apasionado por el desarrollo web, el diseño gráfico y el fútbol desde que ten
 
 - C++.
 - Java, JavaScript.
+- Python.
 - SQL.
 - PL/SQL.
 

@@ -1,6 +1,6 @@
 # ¡HOLA! 👋, de 🇭🇳 para el 🌎  
 
-Soy un apasionado del desarrollo web, el diseño gráfico y el fútbol desde que tengo uso de razón. Esta pasión me llevó a fundar [**Diario Deportivo GOLAZO**](https://diariodeportivogolazohonduras.blogspot.com/) de Honduras, donde he aplicado mis conocimientos en **Ciencias de la Computación** a diversas áreas.  
+Soy un apasionado del desarrollo web, el diseño gráfico y el fútbol desde que tengo uso de razón. Esta pasión me llevó a fundar [**Diario Deportivo GOLAZO**](https://diariodeportivogolazohonduras.blogspot.com/) de Honduras, un proyecto donde he podido aplicar mis conocimientos en **Ciencias de la Computación** con el objetivo de crear una plataforma digital que conecta a los aficionados al fútbol en todo el país y fuera de territorio hondureño.  
 
 ## 💡 Habilidades (Skills) 
 
@@ -36,7 +36,7 @@ Soy un apasionado del desarrollo web, el diseño gráfico y el fútbol desde que
 
 - **CSS** (Lenguaje de estilización que se utiliza para definir la apariencia visual de los elementos en una página web. Se usa junto con **HTML** para separar la estructura del contenido de la presentación visual, lo que facilita la modificación del diseño sin alterar el contenido **HTML**. **CSS** se basa en reglas que aplican estilos a los elementos seleccionados, y permite controlar aspectos como *colores*, *tipografía*, *márgenes*, *alineación*, y *posicionamiento*).
 
-- **Bootstrap** (Framework front-end que facilita el diseño de páginas web de manera rápida y eficiente. Proporciona una serie de componentes y herramientas prediseñadas como botones, formularios, navegación y disposición de rejillas, todo con un enfoque responsivo. **Bootstrap** utiliza **CSS** y **JavaScript** para facilitar el desarrollo de interfaces web con un diseño consistente y atractivo, además de ser compatible con diferentes navegadores y dispositivos).
+- **Bootstrap** (Framework frontend que facilita el diseño de páginas web de manera rápida y eficiente. Proporciona una serie de componentes y herramientas prediseñadas como botones, formularios, navegación y disposición de rejillas, todo con un enfoque responsivo. **Bootstrap** utiliza **CSS** y **JavaScript** para facilitar el desarrollo de interfaces web con un diseño consistente y atractivo, además de ser compatible con diferentes navegadores y dispositivos).
 
 ## 🗃️ SGBD  
 - MySQL.

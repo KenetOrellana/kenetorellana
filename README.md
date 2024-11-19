@@ -4,9 +4,9 @@ Soy un apasionado del desarrollo web, el diseño gráfico y el fútbol desde que
 
 ## 💡 Habilidades (Skills) 
 
-✅ Desarrollador Web.  
-✅ Desarrollador de Bases de Datos.  
-✅ Diseñador Gráfico.  
+✅ Desarrollo web.  
+✅ Desarrollo de Bases de Datos.  
+✅ Diseñado Gráfico.  
 
 ## 🖥 Lenguajes de Programación  
 
